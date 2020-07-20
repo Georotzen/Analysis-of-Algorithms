@@ -1,0 +1,7 @@
+Use recursion tree to solve following three recurrences:
+
+1. T(n) = T(n/2) + n;
+
+2. T(n) = 4T(n/2) + n^2;
+
+3. T(n) = 9T(n/2) + n^3.
